@@ -1,3 +1,10 @@
 .venv
-.directory
-__pycache__
+dist
+build
+content
+__pycache__/
+app/db/lib/*
+config.ini
+MyApp.spec
+app.db
+archive.zip
