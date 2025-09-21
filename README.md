@@ -9,6 +9,12 @@ git clone https://github.com/vnukovmikhail/pyqt6-python.git
 cd pyqt6-python
 ```
 
+### Select any of the branches
+
+```bash
+git switch BRANCH_NAME
+```
+
 ### Build project
 
 ```bash
