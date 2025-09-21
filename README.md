@@ -1,6 +1,6 @@
 ## Information
 
-### This is simple calculator, program was created as my university project, its open source soo... u can use it for personal purposes. 
+### This is simple text redactor, program was created as my university project, its open source soo... u can use it for personal purposes. 
 
 ## Installation
 
